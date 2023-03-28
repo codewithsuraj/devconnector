@@ -1,0 +1,6 @@
+{
+     "mongoURI": "mongodb+srv://suraj:devsuraj@cluster0.ai6mt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+     "jwtSecret": "surajmahendrakartoken",
+     "githubClientId": "3cb02aa1bf3e319460c7",
+     "githubSecret": "48f80c47e2ccd8f47d500364fb09b3c0a5119f8e"
+}
